@@ -1,2 +1,4 @@
+venv/
+runs/
 .ipynb_checkpoints/
 recording/
