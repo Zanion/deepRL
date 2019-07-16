@@ -3,3 +3,4 @@ runs/
 .ipynb_checkpoints/
 recording/
 mon/
+*.dat
